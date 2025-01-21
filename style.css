@@ -1,0 +1,26 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+		  background-image: url(https://img.freepik.com/premium-photo/abstract-blue-background-with-smooth-lines_476363-540.jpg?semt=ais_hybrid);
+		  background-size: cover;
+		  height: 100%;
+
+
+
+		}
+.Box {
+	background-color: #ADD8E6 ;
+	margin: 50px;
+	border-radius: 10px;
+	font-family: Newsreader;
+}
+
